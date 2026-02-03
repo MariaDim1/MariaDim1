@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I’m Maria 👋
 
-<!--
-**MariaDim1/MariaDim1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Electrical and Computer Engineering student at AUTH, currently working on my
+diploma thesis focused on biosignal and game log processing, MATLAB-to-Python pipelines,
+and deep learning models.
 
-Here are some ideas to get you started:
+### 🔍 Interests
+- Machine Learning & Deep Learning
+- Biosignal Processing
+- Data Analysis with Python
+- Web Design & Frontend Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies
+- Python
+- PyTorch
+- MATLAB
+- HTML & CSS
+- Git & GitHub
+
+### 🌐 Portfolio
+👉 https://mariadim1.github.io/
+
