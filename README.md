@@ -14,6 +14,7 @@ and deep learning models.
 - Python
 - PyTorch
 - MATLAB
+- Signal Processing
 - HTML & CSS
 - Git & GitHub
 
