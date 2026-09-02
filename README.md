@@ -7,14 +7,6 @@ My diploma thesis explores cross-modal variational representation learning betwe
 
 ---
 
-**Currently building** — a series of end-to-end projects covering the data & AI engineering stack:
-
-- 🌦️ [weather-etl-pipeline](https://github.com/MariaDim1/weather-etl-pipeline) — automated ETL pipeline, Airflow orchestration, Docker
-- 📊 Data analytics dashboard *(in progress)*
-- 🧠 ML model deployment with FastAPI & MLOps tooling *(in progress)*
-- 🤖 RAG / GenAI application *(in progress)*
-- 🔬 Medical imaging & cancer detection (cell image classification) *(planned)*
-
 **Core stack**
 
 `Python` `PyTorch` `SQL` `Docker` `Airflow` `FastAPI` `MATLAB` `Git`
